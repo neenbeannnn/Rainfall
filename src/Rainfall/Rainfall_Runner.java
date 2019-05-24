@@ -1,7 +1,3 @@
-//Names: Lucia Chang and Nina Huang
-//Period: 4
-//AP Computer Science
-
 package Rainfall;
 import processing.core.PApplet;
 import processing.core.PFont;
