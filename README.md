@@ -1,14 +1,12 @@
 **PROJECT NAME**: Rainfall
 
-**AUTHORS**: Nina Huang
+**AUTHORS**: Nina Huang/Lucia Chang
 
-**DESCRIPTION**: An educational app for bird enthusiasts or nature lovers; created for Womxn Hacks 2019 at UCSB
+**DESCRIPTION**: A fun game that involves catching raindrops and watering a flower, from seed to full bloom.
 
-**AWARDS**: Best Adventure Hack
+**DATE CREATED**: June 2018
 
-**DATE CREATED**: January 25th-27th, 2019
-
-[Click here](https://www.youtube.com/watch?v=DhtMsaiZ7_M) for YouTube demo.
+[Click here](https://www.youtube.com/watch?v=qI5l796BWTs) for YouTube demo.
 
 **HOW TO PLAY**:
 1. click the green "start" arrow in eclipse to run Rainfall_Runner.java
@@ -22,10 +20,10 @@
 4. the second part is after you have moved on; click on the screen to watch a plant being watered which is dependent
    on how many points you got in the first round
 
-This app was created with XCode and the Swift programming language. It is merely a demo and not all of the
-pages are functional. It is designed to run on an iPhone 8.
+This app was created with Eclipse and Java.
 
 **FUTURE IMPROVEMENTS**:
-- allow database searching and pulling data from online websites to maximize efficiency
-- include support for more screen sizes
-
+- make it more competitive with multiple levels
+- implement a leaderboard
+- add upgrades that will enhance the game
+- improve graphics
